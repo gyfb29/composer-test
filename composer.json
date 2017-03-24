@@ -10,9 +10,10 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
 	"autoload": {
         "psr-4": {
-            "mobileCode\\": "mobileCode/ChangZhuoSend",
+            "mobileCode\\": "mobileCode/ChangZhuoSend"
+			}
         }
 }
