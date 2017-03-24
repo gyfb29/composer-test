@@ -1,0 +1,18 @@
+{
+    "name": "cow/changzhuosend",
+    "description": "this is a message code send api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cow",
+            "email": "gyfb29@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+	"autoload": {
+        "psr-4": {
+            "mobileCode\\": "mobileCode/ChangZhuoSend",
+        }
+}
