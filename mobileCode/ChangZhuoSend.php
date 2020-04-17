@@ -8,8 +8,8 @@
 
 	class ChangZhuoSend {
 		private	$userid= ""; //用户ID
-		private $account= "7723youxi"; //用户名
-		private $password= "cn7723"; //密码
+		private $account= ""; //用户名
+		private $password= ""; //密码
 		private $target = "http://sms.chanzor.com:8001/sms.aspx";//地址
 
         /**
